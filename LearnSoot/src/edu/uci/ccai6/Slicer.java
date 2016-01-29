@@ -39,7 +39,7 @@ public class Slicer extends SceneTransformer{
 		boolean isPaddle = Util.MAY_ALIAS.equals("paddle");
 		//String classpath = "C:\\Program Files\\Java\\jdk1.8.0_65\\jre\\lib\\"; // Windows
 		String classFolder = "./test";
-		String mainClass = "IntraTest2";
+		String mainClass = "IntraTest3";
 		//classpath = classpath.replaceAll("\\", "/");
 		
 		Options.v().set_whole_program(true);
